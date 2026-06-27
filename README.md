@@ -1,5 +1,3 @@
-# Thapar_Electricity_Usage_Analysis_SQL_Project
-
 # ⚡ Thapar Electricity Usage Analysis SQL Project
 
 A real-world **Database Management System (DBMS)** project developed as part of the **Database Management Systems** course at **Thapar Institute of Engineering and Technology (TIET)**.
